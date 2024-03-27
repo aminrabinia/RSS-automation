@@ -71,8 +71,9 @@ if __name__ == "__main__":
 
     search_query = f"https://www.upwork.com/ab/feed/jobs/rss?contractor_tier=3&location=Canada%2CUnited+Kingdom%2CUnited+States&paging=0%3B10&verified_payment_only=1&proposals=0-4%2C5-9%2C10-14&sort=recency&subcategory2_uid=531770282593251329&api_params=1&q=&securityToken={securityToken}userUid={userUid}orgUid={orgUid}"
     fetch_new_jobs(search_query)
-
     
+
+
 
 
 
